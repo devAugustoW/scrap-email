@@ -1,0 +1,11 @@
+2024-11-07T17:56:44.780Z [INFO]: Servidor rodando na porta 3000
+2024-11-07T17:57:37.419Z [INFO]: Iniciando scraping na URL: https://news.google.com/
+2024-11-07T17:57:38.989Z [INFO]: Scraping do Google News realizado com sucesso.
+2024-11-07T17:57:38.989Z [ERROR]: Erro no scraping, sem dados retornados.
+2024-11-07T17:58:55.176Z [INFO]: Usando cache de notícias
+2024-11-07T17:58:55.177Z [ERROR]: Erro no scraping, sem dados retornados.
+2024-11-07T18:00:14.502Z [INFO]: Usando cache de notícias
+2024-11-07T18:00:14.502Z [ERROR]: Erro no scraping, sem dados retornados.
+2024-11-07T18:15:12.223Z [INFO]: Servidor rodando na porta 3000
+2024-11-07T18:15:34.606Z [INFO]: Scraping realizado com sucesso: Web scraping - Wikipedia
+2024-11-07T18:15:38.566Z [INFO]: Email enviado com sucesso!
